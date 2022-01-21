@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TPJEE-Maxime.iml" filepath="$PROJECT_DIR$/.idea/TPJEE-Maxime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TPJEE-main/Tp1JEE.iml" filepath="$PROJECT_DIR$/TPJEE-main/Tp1JEE.iml" />
+    </modules>
+  </component>
+</project>
